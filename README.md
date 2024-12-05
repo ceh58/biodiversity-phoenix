@@ -30,3 +30,5 @@ biodiversity-phoenix
 ```
 
 ## Acknowledgments
+
+Thank you to Professor Carmen Galaz-García ([@carmengg](https://github.com/carmengg/carmengg) on GitHub) for assigning this project as a part of EDS 220.

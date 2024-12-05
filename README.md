@@ -22,12 +22,12 @@ U.S. Census Bureau, 2020 [https://www.census.gov/cgi-bin/geo/shapefiles/index.ph
 
 ## Repository Structure
 ```
-biodiversity-phoenix
 ├── README.md
-├── notebooks
+├── biodiversity-phoenix.ipynb
 ├── .gitignore
 └── data/
 ```
+The `biodiversity-phoenix.ipynb` notebook details the steps taken to produce a visualization of BII change from 2017 to 2020, highlighting particular areas that experienced loss.
 
 ## Acknowledgments
 

@@ -21,9 +21,8 @@ The Phoenix subdivision shapefile was downloaded from the [2020 TIGER/Line® Sha
 ## Repository Structure
 ```
 ├── README.md
-├── biodiversity-phoenix.ipynb # Notebook with analysis
 ├── .gitignore
-└── data/
+└── biodiversity-phoenix.ipynb # Notebook with analysis
 ```
 The `biodiversity-phoenix.ipynb` notebook details the steps taken to produce a visualization of BII change from 2017 to 2020, highlighting particular areas that experienced loss.
 

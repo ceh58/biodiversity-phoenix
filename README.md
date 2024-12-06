@@ -16,10 +16,12 @@ In this analysis, I use the 2017 and 2020 rasters from the `io-biodiversity` col
    
 The Phoenix subdivision shapefile was downloaded from the [2020 TIGER/Line® Shapefiles: County Subdivisions](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County+Subdivisions) for Arizona, as provided by the US Census Bureau.
 
+*Phoenix subdivision data was housed in a data/ folder that was not pushed to the repository due to its size.*
+
 ## Repository Structure
 ```
 ├── README.md
-├── biodiversity-phoenix.ipynb
+├── biodiversity-phoenix.ipynb # Notebook with analysis
 ├── .gitignore
 └── data/
 ```

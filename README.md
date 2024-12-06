@@ -10,7 +10,7 @@ Two datasets are used in this analysis:
 
 **1. Biodiversity Intactness Index (BII) Time Series**
    
-In this analysis, I use the 2017 and 2020 rasters from the `io-biodiversity` collection from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). The collection was filtered using the following coordinates: [-112.826843, 32.974108, -111.184387, 33.863574].
+The 2017 and 2020 rasters were obtained from the `io-biodiversity` collection from the [Microsoft Planetary Computer STAC catalog](https://planetarycomputer.microsoft.com/dataset/io-biodiversity). The collection was filtered using the following bounding box: [-112.826843, 32.974108, -111.184387, 33.863574].
 
 **2. Phoenix Subdivision Shapefile:**
    
